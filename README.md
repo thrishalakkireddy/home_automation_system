@@ -162,7 +162,7 @@ using JSON formatted payloads to Ubidots cloud platform.
 
 # Author
 
-**Rahul Kuntrapakam**
+**LakkiReddy Thrisha**
 
 Electronics and Communication Engineering  
 Embedded Systems | Industrial IoT | Firmware Development | PCB Design
